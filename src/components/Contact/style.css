@@ -2,6 +2,7 @@
     background-color: #3A3A3A;
     color: white;
     text-align: center;
+    font-size: 3vw;
 }
 
 .Contact a::before {
@@ -13,7 +14,7 @@
 }
 
 .Contact a {
-    margin: 0 20px;
+    margin: 0 1vw;
     text-decoration: none;
     color: inherit;
 }
