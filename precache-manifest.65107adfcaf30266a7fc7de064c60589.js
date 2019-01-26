@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ctf-website-2019/static/js/runtime~main.36ddeb28.js"
   },
   {
-    "revision": "f809e0003311a99f5c4226f2c2b060dc",
+    "revision": "c131425d595cdfc00b853a98bd1df5ff",
     "url": "/ctf-website-2019/index.html"
   }
 ];
