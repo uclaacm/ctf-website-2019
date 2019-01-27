@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d1671dc4821bda58bffe",
+    "revision": "fd876120a7df9804e6a3",
     "url": "/ctf-website-2019/static/css/main.eb92a759.chunk.css"
   },
   {
-    "revision": "d1671dc4821bda58bffe",
-    "url": "/ctf-website-2019/static/js/main.d1671dc4.chunk.js"
+    "revision": "fd876120a7df9804e6a3",
+    "url": "/ctf-website-2019/static/js/main.fd876120.chunk.js"
   },
   {
     "revision": "f739feb7d61c48a46bed",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ctf-website-2019/static/js/runtime~main.36ddeb28.js"
   },
   {
-    "revision": "febd5f0ba49ec43301327300a40eff82",
+    "revision": "3e24c8272163114de8e406a43d364419",
     "url": "/ctf-website-2019/index.html"
   }
 ];
